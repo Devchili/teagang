@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#CEFDE9CB"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="16dp"
+        android:weightSum="5">
+
+        <ImageButton
+            android:id="@+id/buttonCategory1"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:src="@drawable/cf"
+            android:contentDescription="@string/coffee"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/buttonCategory2"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:src="@drawable/nc"
+            android:contentDescription="@string/non_coffee"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/buttonCategory3"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:src="@drawable/ft"
+            android:contentDescription="@string/fruit_tea"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/buttonCategory4"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:src="@drawable/mt"
+            android:contentDescription="@string/milk_tea"
+            android:scaleType="fitCenter" />
+
+        <ImageButton
+            android:id="@+id/buttonCategory5"
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:src="@drawable/cc"
+            android:contentDescription="@string/fruit_tea"
+            android:scaleType="fitCenter" />
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewMenuItems"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+</LinearLayout>

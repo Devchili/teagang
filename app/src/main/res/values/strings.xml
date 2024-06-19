@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">teagang</string>
+    <string name="coffee">Coffee</string>
+    <string name="non_coffee">Non Coffee</string>
+    <string name="milk_tea">Milk Tea</string>
+    <string name="fruit_tea">Fruit Tea</string>
+    <string name="cream_cheese">Cream Cheese</string>
+    <string name="checkout">checkout</string>
+    <string name="title_order">order\n</string>
+    <string name="title_profile">profile\n</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Account Profile</string>
+    <string name="recommend">AI Suggest</string>
+</resources>

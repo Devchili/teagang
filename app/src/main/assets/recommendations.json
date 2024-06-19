@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "drinkname": "Mixed Berries",
+      "answer": "This drink is recommended because it offers a refreshing mix of various berries, providing a delightful burst of natural sweetness and antioxidants."
+    },
+    {
+      "drinkname": "Berry Matcha",
+      "answer": "Berry Matcha combines the rich, earthy flavor of matcha with the sweetness of berries, making it a perfect choice for those who enjoy a balanced and health-boosting beverage."
+    },
+    {
+      "drinkname": "Strawberry Milk",
+      "answer": "Strawberry Milk is recommended for its creamy texture and sweet strawberry flavor, making it a comforting and delicious treat."
+    },
+    {
+      "drinkname": "Milky Blueberry",
+      "answer": "Milky Blueberry is a unique blend of milk and blueberries, providing a creamy and fruity experience that is both refreshing and nutritious."
+    },
+    {
+      "drinkname": "Wintermelon",
+      "answer": "Wintermelon is a classic choice known for its light and refreshing taste, making it a perfect thirst-quencher on a hot day."
+    },
+    {
+      "drinkname": "Cheesy Mango",
+      "answer": "Cheesy Mango offers a delightful combination of sweet mango and creamy cheese, creating a unique and indulgent flavor profile."
+    },
+    {
+      "drinkname": "Green Apple",
+      "answer": "Green Apple is recommended for its crisp and tangy flavor, providing a refreshing and invigorating drink option."
+    },
+    {
+      "drinkname": "Matcha Oreo",
+      "answer": "Matcha Oreo combines the rich, earthy flavor of matcha with the sweet, crunchy texture of Oreos, making it a delightful and indulgent treat."
+    },
+    {
+      "drinkname": "Kiwi",
+      "answer": "Kiwi is a refreshing choice known for its vibrant, tangy flavor, packed with vitamin C and other essential nutrients."
+    },
+    {
+      "drinkname": "Choco Mint",
+      "answer": "Choco Mint is recommended for its perfect blend of rich chocolate and refreshing mint, making it a classic and satisfying flavor combination."
+    },
+    {
+      "drinkname": "Mango",
+      "answer": "Mango is a popular choice for its sweet, tropical flavor that is both refreshing and delicious, perfect for any time of the year."
+    },
+    {
+      "drinkname": "Watermelon",
+      "answer": "Watermelon is recommended for its light, hydrating, and refreshing taste, making it a perfect drink to cool down on a hot day."
+    },
+    {
+      "drinkname": "Melon",
+      "answer": "Melon offers a sweet and refreshing flavor that is both hydrating and satisfying, making it a great choice for a refreshing drink."
+    },
+    {
+      "drinkname": "Passion Fruit",
+      "answer": "Passion Fruit is known for its exotic and tangy flavor, making it a vibrant and refreshing choice for those who enjoy bold flavors."
+    },
+    {
+      "drinkname": "Lychee",
+      "answer": "Lychee offers a delicate and floral sweetness, making it a unique and refreshing choice for those looking for something different."
+    },
+    {
+      "drinkname": "Blueberry",
+      "answer": "Blueberry is recommended for its sweet and tangy flavor, packed with antioxidants and a refreshing choice for any time."
+    },
+    {
+      "drinkname": "Strawberry",
+      "answer": "Strawberry is a classic choice known for its sweet and juicy flavor, making it a comforting and delicious option."
+    },
+    {
+      "drinkname": "Wintermelon Cream Cheese",
+      "answer": "Wintermelon Cream Cheese combines the light and refreshing taste of wintermelon with a creamy cheese topping, creating a unique and satisfying drink."
+    },
+    {
+      "drinkname": "Strawberry Cream Cheese",
+      "answer": "Strawberry Cream Cheese offers a delightful combination of sweet strawberries and creamy cheese, making it a perfect indulgent treat."
+    },
+    {
+      "drinkname": "Black Vanilla Cream Cheese",
+      "answer": "Black Vanilla Cream Cheese is recommended for its rich and creamy vanilla flavor with a hint of cheese, making it a luxurious drink choice."
+    },
+    {
+      "drinkname": "Taro Cream Cheese",
+      "answer": "Taro Cream Cheese combines the nutty, earthy flavor of taro with creamy cheese, creating a unique and delicious beverage."
+    },
+    {
+      "drinkname": "Redvelvet Cream Cheese",
+      "answer": "Redvelvet Cream Cheese is a rich and indulgent drink that combines the classic flavor of red velvet with creamy cheese, perfect for dessert lovers."
+    },
+    {
+      "drinkname": "Matcha Cream Cheese",
+      "answer": "Matcha Cream Cheese offers a balanced combination of the earthy taste of matcha with creamy cheese, making it a sophisticated and satisfying drink."
+    },
+    {
+      "drinkname": "Honeydew Cream Cheese",
+      "answer": "Honeydew Cream Cheese provides a refreshing and sweet honeydew flavor with a creamy cheese topping, perfect for a delightful treat."
+    },
+    {
+      "drinkname": "Americano",
+      "answer": "Americano is a classic coffee choice for those who enjoy a strong and bold flavor, perfect for a morning boost."
+    },
+    {
+      "drinkname": "Hazelnut Coffee",
+      "answer": "Hazelnut Coffee is recommended for its rich and nutty flavor, providing a warm and comforting coffee experience."
+    },
+    {
+      "drinkname": "Chocolatey Oreo",
+      "answer": "Chocolatey Oreo combines the rich flavor of chocolate with the crunch of Oreos, making it a delightful and indulgent coffee option."
+    },
+    {
+      "drinkname": "Salted Caramel",
+      "answer": "Salted Caramel offers a perfect blend of sweet and salty flavors, creating a rich and satisfying coffee experience."
+    },
+    {
+      "drinkname": "Coffee Jelly",
+      "answer": "Coffee Jelly is a unique coffee drink with chewy coffee jelly pieces, providing a fun and delicious texture."
+    },
+    {
+      "drinkname": "White Rabbit",
+      "answer": "White Rabbit offers a nostalgic candy flavor in a creamy coffee drink, making it a sweet and delightful choice."
+    },
+    {
+      "drinkname": "Butterscotch",
+      "answer": "Butterscotch coffee is rich and buttery, providing a warm and comforting drink that is perfect for any time of the day."
+    },
+    {
+      "drinkname": "Taro",
+      "answer": "Taro coffee combines the nutty flavor of taro with coffee, creating a unique and delicious drink experience."
+    },
+    {
+      "drinkname": "Caramel Macchiato",
+      "answer": "Caramel Macchiato is a popular choice for its rich espresso and sweet caramel flavors, providing a perfect balance of taste."
+    },
+    {
+      "drinkname": "Very Rocky Road",
+      "answer": "Very Rocky Road combines the flavors of chocolate, nuts, and marshmallows in a rich coffee drink, making it a decadent treat."
+    },
+    {
+      "drinkname": "Almond Mocha",
+      "answer": "Almond Mocha offers a rich blend of chocolate and almond flavors, creating a luxurious and satisfying coffee drink."
+    },
+    {
+      "drinkname": "Double Dutch",
+      "answer": "Double Dutch combines the flavors of chocolate, nuts, and vanilla in a creamy coffee drink, making it a delightful indulgence."
+    },
+    {
+      "drinkname": "Coffee Float",
+      "answer": "Coffee Float is a fun and refreshing drink with a scoop of ice cream, perfect for coffee lovers looking for a sweet treat."
+    },
+    {
+      "drinkname": "Java Chip",
+      "answer": "Java Chip offers a rich coffee flavor with chocolate chips, providing a satisfying and indulgent drink experience."
+    },
+    {
+      "drinkname": "Mocha",
+      "answer": "Mocha is a classic choice for its perfect blend of coffee and chocolate flavors, making it a comforting and delicious drink."
+    },
+    {
+      "drinkname": "Mango",
+      "answer": "Mango coffee combines the tropical flavor of mango with coffee, creating a unique and refreshing drink option."
+    },
+    {
+      "drinkname": "Avocado",
+      "answer": "Avocado coffee offers a creamy and rich flavor, providing a unique and indulgent drink experience for those looking for something different."
+    },
+    {
+      "drinkname": "Triple Choco",
+      "answer": "Triple Choco is a decadent drink combining three types of chocolate, perfect for chocolate lovers looking for an indulgent treat."
+    },
+    {
+      "drinkname": "Black Vanilla",
+      "answer": "Black Vanilla is a rich and creamy vanilla coffee drink, offering a luxurious and satisfying experience."
+    },
+    {
+      "drinkname": "Choco Nutella",
+      "answer": "Choco Nutella combines the rich flavor of Nutella with creamy chocolate, making it an indulgent and delightful drink."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "category": "COFFEE",
+    "name": "Espresso",
+    "sizes": {
+      "SMALL": 70,
+      "MEDIUM": 80
+    }
+  },
+  {
+    "category": "COFFEE",
+    "name": "Latte",
+    "sizes": {
+      "SMALL": 70,
+      "MEDIUM": 80
+    }
+  },
+  {
+    "category": "NON_COFFEE",
+    "name": "Hot Chocolate",
+    "sizes": {
+      "SMALL": 95,
+      "MEDIUM": 105
+    }
+  },
+  {
+    "category": "MILK_TEA",
+    "name": "Classic Milk Tea",
+    "sizes": {
+      "SMALL": 70,
+      "MEDIUM": 80,
+      "LARGE": 95
+    }
+  },
+  {
+    "category": "FRUIT_TEA",
+    "name": "Mango Fruit Tea",
+    "sizes": {
+      "SMALL": 65,
+      "MEDIUM": 75
+    }
+  },
+  {
+    "category": "CREAM_CHEESE",
+    "name": "Cheese Foam Green Tea",
+    "sizes": {
+      "SMALL": 90,
+      "MEDIUM": 100
+    }
+  }
+]

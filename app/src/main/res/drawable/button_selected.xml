@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#C88003" /> <!-- Change this color to the highlight color you prefer -->
+    <corners android:radius="4dp" /> <!-- Optional: to make the corners rounded -->
+</shape>
